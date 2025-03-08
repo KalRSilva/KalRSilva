@@ -6,6 +6,9 @@ In recent months, Java Spring has become my primary focus, motivating me to purs
 
 My experience includes:
 
-Company challenges
-Personal projects
-Documentation for both
+-Company challenges
+-Microservices
+-Personal projects
+-Documentation for those
+
+My main goal is to one day work as a Backend Developer, also to improve my skills as a Programmer/employee.
