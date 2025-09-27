@@ -18,14 +18,14 @@ My experience includes:
 My main goal is to deliver high-quality solutions while continuously improving my skills through collaborative projects.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/kau%C3%AA-ramos-da-silva-6886b830b/" target="_blank">
     <img 
-      src="<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/f200c8f6-e13c-4148-bb82-be0f300e856f" />
-" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" 
       alt="LinkedIn"
     />
   </a>
 </p>
+
 
 
 
