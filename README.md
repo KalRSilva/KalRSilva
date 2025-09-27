@@ -19,13 +19,13 @@ My main goal is to deliver high-quality solutions while continuously improving m
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="120" height="35">
-      <rect width="120" height="35" rx="6" ry="6" fill="#0077B5"/>
-      <text x="40" y="22" font-family="Arial, sans-serif" font-size="14" fill="white">LinkedIn</text>
-      <image href="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" x="8" y="5" width="24" height="24"/>
-    </svg>
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
 </p>
+
 
 
 
