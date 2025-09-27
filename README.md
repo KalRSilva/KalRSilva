@@ -15,4 +15,4 @@ My main goal is to one day work as a Backend Developer, also to improve my skill
 
 Technologies I daily work with:
 
-<img src="https://conteige.cloud/wp-content/uploads/2021/07/java.png" width="40" height="40"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQEZVXWqTQ0fTg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1689632891005?e=2147483647&v=beta&t=U2C7v9Ln_agpV2td-ceFC44JMURVoOoNxLZo_sGYMjM" width="40" height="40"> <img src="https://t.ctcdn.com.br/MYfGrDUp-tzO9435EXLy4piB1Jk=/0x220:900x727/640x360/smart/i544346.jpeg" width="40" height="40">
+<img src="https://conteige.cloud/wp-content/uploads/2021/07/java.png" width="40" height="40"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQEZVXWqTQ0fTg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1689632891005?e=2147483647&v=beta&t=U2C7v9Ln_agpV2td-ceFC44JMURVoOoNxLZo_sGYMjM" width="40" height="40"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-icon-svg-download-png-2944772.png?f=webp" width="40" height="40">
