@@ -6,12 +6,12 @@ In recent months, Java Spring has become my primary focus, motivating me to purs
 
 My experience includes:
 
-∙Restful APIs
-∙Unit Tests
-∙MongoDB
-∙SQL
-∙Docker
-∙RabbitMQ
+∙Restful APIs  
+∙Unit Tests  
+∙MongoDB  
+∙SQL  
+∙Docker  
+∙RabbitMQ  
 
 My main goal is to one day work as a Backend Developer, also to improve my skills as a Programmer/employee.
 
