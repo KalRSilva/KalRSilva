@@ -17,10 +17,8 @@ My experience includes:
 
 My main goal is to deliver high-quality solutions while continuously improving my skills through collaborative projects.
 
-<a href="https://www.linkedin.com/in/kau%C3%AA-ramos-da-silva-6886b830b/" target="_blank">
-  <img src="" alt="Profile Image" width="30" height="30" style="vertical-align:middle; margin-right:8px; border-radius:4px;">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="vertical-align:middle;">
-</a>
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="20" height="20" style="vertical-align:middle; margin-right:6px;"> **LINKEDIN**](https://www.linkedin.com/in/kau%C3%AA-ramos-da-silva-6886b830b/)
+
 
 
 Technologies I have experience with:
