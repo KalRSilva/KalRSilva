@@ -15,4 +15,4 @@ My main goal is to one day work as a Backend Developer, also to improve my skill
 
 Technologies I daily work with:
 
-<img src="https://conteige.cloud/wp-content/uploads/2021/07/java.png" width="20" height="20">
+<img src="https://conteige.cloud/wp-content/uploads/2021/07/java.png" width="40" height="40">
