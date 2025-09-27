@@ -13,7 +13,7 @@ My experience includes:
 ∙Docker  
 ∙RabbitMQ  
 
-My main goal is to one day work as a Backend Developer, also to improve my skills as a Programmer/employee.
+My main goal is to deliver high-quality solutions while continuously improving my skills through collaborative projects.
 
 Technologies I have experience with:
 
