@@ -22,9 +22,13 @@ My main goal is to deliver high-quality solutions while continuously improving m
     <img 
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" 
       alt="LinkedIn"
+      width="40"
+      height="40"
+      style="border-radius: 6px;"
     />
   </a>
 </p>
+
 
 
 
