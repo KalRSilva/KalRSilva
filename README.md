@@ -17,7 +17,8 @@ My experience includes:
 
 My main goal is to deliver high-quality solutions while continuously improving my skills through collaborative projects.
 
-(https://www.linkedin.com/in/kau%C3%AA-ramos-da-silva-6886b830b/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-ramos-da-silva-6886b830b/)
+
 
 Technologies I have experience with:
 
