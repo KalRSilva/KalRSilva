@@ -18,26 +18,28 @@ My experience includes:
 My main goal is to deliver high-quality solutions while continuously improving my skills through collaborative projects.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%AA-ramos-da-silva-6886b830b/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
-         alt="LinkedIn Logo" 
-         width="20" 
-         height="20" 
-         style="vertical-align:middle; margin-right:8px;">
+  <a href="https://www.linkedin.com/in/kau%C3%AA-ramos-da-silva-6886b830b/" target="_blank" style="text-decoration:none;">
     <span style="
-        background-color:#0077B5;
-        color:white;
-        padding:6px 12px;
-        border-radius:4px;
-        font-family:Arial, sans-serif;
-        font-size:14px;
-        font-weight:bold;
-        vertical-align:middle;
-        display:inline-block;">
+      display: inline-flex;
+      align-items: center;
+      background-color: #0077B5;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      font-size: 14px;">
+      
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+           alt="LinkedIn Logo" 
+           width="20" 
+           height="20" 
+           style="margin-right:8px;">
       LINKEDIN
     </span>
   </a>
 </p>
+
 
 
 
