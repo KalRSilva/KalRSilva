@@ -15,4 +15,4 @@ My main goal is to one day work as a Backend Developer, also to improve my skill
 
 Technologies I daily work with:
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fjava&psig=AOvVaw1xqqtaj4r61wPIXC4_3uBY&ust=1759066208689000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCCw7aG-Y8DFQAAAAAdAAAAABAW](https://img.icons8.com/?size=48&id=13679&format=png)" width="20" height="20">
+<img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="20" height="20">
