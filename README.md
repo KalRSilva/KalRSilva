@@ -17,10 +17,11 @@ My experience includes:
 
 My main goal is to deliver high-quality solutions while continuously improving my skills through collaborative projects.
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" 
+      src="<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/f200c8f6-e13c-4148-bb82-be0f300e856f" />
+" 
       alt="LinkedIn"
     />
   </a>
