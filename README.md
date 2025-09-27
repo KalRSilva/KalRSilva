@@ -4,6 +4,8 @@ I am a student at the Universidade Metodista de São Paulo (UMESP).
 I started my programming journey with Python, but eventually found my passion for coding in Java.
 In recent months, Java Spring has become my primary focus, motivating me to pursue a career in Backend Development.
 
+For the past year I have been working as a *Support Analyst*.
+
 My experience includes:
 
 ∙Restful APIs  
