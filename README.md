@@ -20,14 +20,12 @@ My main goal is to deliver high-quality solutions while continuously improving m
 <p align="left">
   <a href="https://www.linkedin.com/in/kau%C3%AA-ramos-da-silva-6886b830b/" target="_blank">
     <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
-      width="40"
-      height="40"
-      style="border-radius: 6px;"
     />
   </a>
 </p>
+
 
 
 
